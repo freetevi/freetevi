@@ -6,7 +6,7 @@ Me chamo Matheus Henrique Silva, tenho 24 anos e sou natural de Pernambuco. Conc
 Tenho experiência com desenvolvimento Back-end e Front-end usando JavaScript e Node.js, criação de APIs REST, bancos de dados SQL e NoSQL, Git/GitHub e boas práticas de programação. Já desenvolvi projetos pessoais, incluindo automações, sistemas simples e jogos baseados em Tibia.
 Sou uma pessoa dedicada, com facilidade de aprendizado, boa comunicação e foco em resolução de problemas.
 
-
+<p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
