@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/freetevi">
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue">
+    <img alt="Profile views" src="![Views](https://komarev.com/ghpvc/?username=freetevi&color=blue&label=Views)>
   </a>
 </p>
 
