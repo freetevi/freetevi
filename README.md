@@ -7,10 +7,6 @@
   - Se quiser usar a imagem aqui abaixo, mova-a para o repositório e ajuste o caminho
 -->
 
-<p align="center">
-  <!-- Imagem/Foto: caminho local (substitua ou mova a imagem para o repositório) -->
-  <img src="/mnt/data/cf3c0b88-66f2-4f91-a731-a86b3de42293.png" alt="Matheus" width="160" style="border-radius:80px"/>
-</p>
 
 <h1 align="center">Olá 👋, eu sou Matheus Henrique Silva</h1>
 <p align="center">
