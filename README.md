@@ -60,13 +60,15 @@
 ---
 
 ## 📈 Estatísticas (GitHub)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freetevi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=freetevi&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freetevi&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freetevi&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 
