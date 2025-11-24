@@ -17,7 +17,6 @@
   <strong>Desenvolvedor | Apaixonado por tecnologia</strong> • 24 anos • Pernambuco
 </p>
 
-<h1 align="center">Olá 👋, eu sou Matheus Henrique Silva</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=freetevi&color=blue&label=Views" alt="Views">
