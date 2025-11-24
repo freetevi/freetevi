@@ -65,7 +65,7 @@
 ---
 
 ## 📫 Contato
-- 💬 Email: `seu.email@exemplo.com` (substitua)
+- 💬 Email: matheushenriques1403@outlook.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/SEU_PERFIL (substitua)
 - 🌐 GitHub: https://github.com/SEU_USUARIO
 
