@@ -32,7 +32,7 @@
 - 🛠 Técnico em Informática pelo ETE.  
 - 💻 Trabalho com **desenvolvimento Back-end (JavaScript / Node.js)** e faço manutenção/limpeza de computadores.  
 - 🎮 Crio projetos leves, incluindo servidores/jogos estilo *Tibia*.  
-- 🚀 Procuro sempre aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento.
+- 🚀  Procuroo sempre aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento.
 
 ---
 
