@@ -59,7 +59,7 @@
 
 ## 📈 Estatísticas (GitHub)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=freetevi&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ## 📫 Contato
 - 💬 Email: matheushenriques1403@outlook.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/SEU_PERFIL (substitua)
-- 🌐 GitHub: https://github.com/SEU_USUARIO
+- 🌐 GitHub: https://github.com/freetevi
 
 ---
 
