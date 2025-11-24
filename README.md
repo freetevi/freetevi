@@ -19,9 +19,10 @@
 
 <p align="center">
   <a href="https://github.com/freetevi">
-    <img alt="Profile views" src="
+    <img src="https://komarev.com/ghpvc/?username=freetevi&label=Visitantes&color=blue&style=for-the-badge" alt="visitantes">
   </a>
 </p>
+
 
 ---
 
