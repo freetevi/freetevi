@@ -8,7 +8,7 @@
 -->
 
 
-<h1 align="center">Olá 👋, eu sou Matheus Henrique Silva</h1>
+<h1 align="center">Matheus Henrique Silva</h1>
 <p align="center">
   <strong>Desenvolvedor | Apaixonado por tecnologia</strong> • 24 anos • Pernambuco
 </p>
