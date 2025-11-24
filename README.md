@@ -1,164 +1,81 @@
-# 👩🏻‍💻 Matheus Silva
+<!--
+  README para perfil GitHub - Matheus Henrique Silva
+  Lembre-se de:
+  - Renomear o repositório para: SEU_USUARIO/SEU_USUARIO
+  - Substituir SEU_USUARIO pelo seu usuário real do GitHub
+  - Substituir/atualizar os projetos e links conforme necessário
+  - Se quiser usar a imagem aqui abaixo, mova-a para o repositório e ajuste o caminho
+-->
 
-**`Desenvolvedor Junior`**
+<p align="center">
+  <!-- Imagem/Foto: caminho local (substitua ou mova a imagem para o repositório) -->
+  <img src="/mnt/data/cf3c0b88-66f2-4f91-a731-a86b3de42293.png" alt="Matheus" width="160" style="border-radius:80px"/>
+</p>
 
-Me chamo Matheus Henrique Silva, tenho 24 anos e sou natural de Pernambuco. Concluí o ensino médio no ETE com formação técnica em Informática e sou formado em Análise e Desenvolvimento de Sistemas pela UniFavip. Sou apaixonado por tecnologia e desenvolvimento.
-Tenho experiência com desenvolvimento Back-end e Front-end usando JavaScript e Node.js, criação de APIs REST, bancos de dados SQL e NoSQL, Git/GitHub e boas práticas de programação. Já desenvolvi projetos pessoais, incluindo automações, sistemas simples e jogos baseados em Tibia.
-Sou uma pessoa dedicada, com facilidade de aprendizado, boa comunicação e foco em resolução de problemas.
+<h1 align="center">Olá 👋, eu sou Matheus Henrique Silva</h1>
+<p align="center">
+  <strong>Desenvolvedor | Apaixonado por tecnologia</strong> • 24 anos • Pernambuco
+</p>
 
-<p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue">
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Sobre mim
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela UniFavip.  
+- 🛠 Técnico em Informática pelo ETE.  
+- 💻 Trabalho com **desenvolvimento Back-end (JavaScript / Node.js)** e faço manutenção/limpeza de computadores.  
+- 🎮 Crio projetos leves, incluindo servidores/jogos estilo *Tibia*.  
+- 🚀 Procuro sempre aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 🔭 Atualmente
+- Estudando/aperfeiçoando: **Node.js**, **APIs REST**, **Banco de Dados (MySQL / PostgreSQL)**.  
+- Trabalhando em projetos pessoais: *bot, servidor de jogo e automações*.
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 🛠 Tecnologias / Skills
+- **Linguagens:** JavaScript (Node.js), HTML, CSS  
+- **Banco de dados:** MySQL, PostgreSQL, MongoDB (básico)  
+- **Versionamento:** Git / GitHub  
+- **Outros:** VS Code, Linux/Windows, Docker (conceitos)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
+## 💡 Projetos em destaque
+> Substitua pelos repositórios reais do seu GitHub.
+
+- [Servidor-Tibia-Simples](https://github.com/SEU_USUARIO/Servidor-Tibia-Simples) — Projeto de servidor inspirado em Tibia (versão leve).  
+- [Meu-Portfolio](https://github.com/SEU_USUARIO/Meu-Portfolio) — Site com meus projetos e contatos.  
+- [Automacoes-Scripts](https://github.com/SEU_USUARIO/Automacoes-Scripts) — Scripts para automatizar tarefas e manutenção.
+
+---
+
+## 📈 Estatísticas (GitHub)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+## 📫 Contato
+- 💬 Email: `seu.email@exemplo.com` (substitua)
+- 🔗 LinkedIn: https://www.linkedin.com/in/SEU_PERFIL (substitua)
+- 🌐 GitHub: https://github.com/SEU_USUARIO
+
+---
+
+## 🤝 Quer colaborar?
+Se tiver interesse em colaborar em algum projeto ou quiser trocar ideia sobre tecnologia, chama no GitHub ou no LinkedIn — sempre aberto a parcerias!
+
+---
+
+<p align="center">
+  Feito com ❤️ por <strong>Matheus Henrique Silva</strong>
 </p>
