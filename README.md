@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/freetevi">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue">
   </a>
 </p>
