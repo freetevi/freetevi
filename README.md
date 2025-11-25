@@ -50,7 +50,7 @@
 > Substitua pelos repositórios reais do seu GitHub.
 
 - [Servidor-Tibia-Simples](https://github.com/SEU_USUARIO/Servidor-Tibia-Simples) — Projeto de servidor inspirado em Tibia (versão leve).  
-- [Meu-Portfolio]((https://freetevi.github.io/projetoInicial/)) — Site com meus projetos e contatos.  
+- [Meu-Portfolio](https://freetevi.github.io/projetoInicial/) — Site com meus projetos e contatos.  
 - [Automacoes-Scripts](https://github.com/SEU_USUARIO/Automacoes-Scripts) — Scripts para automatizar tarefas e manutenção.
 
 ---
