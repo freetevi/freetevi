@@ -71,7 +71,7 @@
 
 ## 📫 Contato
 - 💬 Email: matheushenriques1403@outlook.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/SEU_PERFIL (substitua)](https://www.linkedin.com/in/matheus-henrique-a430b2239/
+- 🔗 LinkedIn: https://www.linkedin.com/in/matheus-henrique-a430b2239/
 - 🌐 GitHub: https://github.com/freetevi
 
 ---
